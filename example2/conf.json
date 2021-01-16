@@ -1,0 +1,8 @@
+{
+    "hostList": [
+        "CCMS|string|hello",
+        "CCMS|string|hi"
+    ],
+    "userName": "CCMS|string|booo",
+    "password": "CCMS|string|xxxxx"
+}
